@@ -8,7 +8,7 @@ const IPAddress subnet(255, 255, 255, 0);
 
 WiFiServer server(80);
 
-const int relayPin = D8;  // Pin connected to the relay module
+const int relayPin = D8;
 
 void setup() {
   Serial.begin(115200);
