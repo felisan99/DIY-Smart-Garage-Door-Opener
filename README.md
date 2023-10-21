@@ -10,7 +10,7 @@ Este proyecto ofrece una solución eficiente y sencilla para controlar mediante 
 
 - **Diagramas de Conexión:** Las conexiones a realizar son sumamente sencillas. Igualmente, dejo esquemas detallados y diagramas de conexión para facilitar la reproducción y modificación del proyecto.
 
-- **Imágenes:** Agregué algunas imágenes del proyecto como referencia para futuras replicas del proyecto 🌎.
+- **Imágenes:** Agregué algunas imágenes del proyecto como referencia para futuras replicas del proyecto 🌎. También grabé un video de mi madre utilizando el dispositivo desde su teléfono. Ver el proyecto funcionando acá --> www.youtube.com/shorts/uxmjgB_-3TI 
 
 #### Componentes necesarios:
 
