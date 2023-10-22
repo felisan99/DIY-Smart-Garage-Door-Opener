@@ -6,7 +6,7 @@ Este proyecto ofrece una solución eficiente y sencilla para controlar mediante 
 
 #### Componentes del Repositorio:
 
-- **Código ESP8266 NodeMCU:** Contiene el código fuente necesario para programar la placa ESP8266 NodeMCU, establecer la comunicación mediante web server y asi desencadenar la lógica necesaria para controlar el portón eléctrico. Sereia necesario adaptar el código si la placa a utilizar fuera una ESP32 en lugar de la ESP8266.
+- **Código ESP8266 NodeMCU:** Contiene el código fuente necesario para programar la placa ESP8266 NodeMCU, establecer la comunicación mediante web server y asi desencadenar la lógica necesaria para controlar el portón eléctrico. Sería necesario adaptar el código si la placa a utilizar fuera una ESP32 en lugar de la ESP8266 que se usa en este proyecto.
 
 - **Diagramas de Conexión:** Las conexiones a realizar son sumamente sencillas. Igualmente, dejo esquemas detallados y diagramas de conexión para facilitar la reproducción y modificación del proyecto.
 
