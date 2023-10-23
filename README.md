@@ -24,6 +24,6 @@ Este proyecto ofrece una solución eficiente y sencilla para controlar mediante 
 
 ## Limitaciones 😔:
 
-Lamentablemente el sistema solo funciona si el teléfono celular y el ESP8266 estan conectados a la misma red WiFi. Una posible solución a este problema seria abrir un puerto de la red local y así acceder al dispositivo a través de este puerto. Sin embargo, esto sería una solución temporal, ya que generalmente, nuestro proveedor de internet cambia nuestra IP pública regularmente. (Mis conocimientos en redes son básicos, sepan disculpar tecnicismos)
+Lamentablemente el sistema solo funciona si el teléfono celular y el ESP8266 estan conectados a la misma red WiFi. Una posible solución a este problema seria abrir un puerto de la red local y así acceder al dispositivo a través de este puerto(habría que tener consideraciones en términos de seguridad). Sin embargo, esto sería una solución temporal, ya que generalmente nuestro proveedor de internet cambia nuestra IP pública regularmente. (Mis conocimientos en redes son básicos, sepan disculpar tecnicismos)
 
 ¡Espero que este proyecto anime a otras personas a desarrollar sus proyectos y seguir aprendiendo📚!
