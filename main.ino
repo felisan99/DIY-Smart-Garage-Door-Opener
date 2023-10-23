@@ -35,7 +35,7 @@ void loop() {
 
     if (request.indexOf("/relay/on") != -1) {
       digitalWrite(relayPin, HIGH);
-      delay(3000);
+      delay(700);
       client.println("Encendido durante 3 segundos.");
       Serial.println("---ON---");
       digitalWrite(relayPin, LOW);
