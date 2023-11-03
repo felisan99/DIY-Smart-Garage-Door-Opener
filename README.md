@@ -22,6 +22,10 @@ Este proyecto ofrece una solución eficiente y sencilla para controlar mediante 
 - Un contenedor para resguardar el proyecto de las inclemencias del tiempo. 🌦️
 - Portón eléctrico. (Hace falta investigar un poco para endender donde conectar el relé a la placa del portón)
 
+## Funcionamiento 📡
+
+La placa ESP8266 cuenta con capacidad de conexión a una red WiFi, lo que habilita a los usuarios para establecer comunicación con la dirección de este dispositivo. Cuando el dispositivo recibe una instrucción por parte del usuario, se procede a poner el pin D8 en un estado lógico alto por un período determinado. Este estado excitado del pin D8 tiene como finalidad activar un relé o saturar un transistor (consideraciones de diseño a gusto de los usuarios). Esto posibilita que el pin asignado por el fabricante de la placa de control del portón eléctrico se conecte a tierra, lo cual es interpretado como una señal para abrir o cerrar el portón.
+
 ## Limitaciones 😔:
 
 Lamentablemente el sistema solo funciona si el teléfono celular y el ESP8266 estan conectados a la misma red WiFi. Una posible solución a este problema seria abrir un puerto de la red local y así acceder al dispositivo a través de este puerto(habría que tener consideraciones en términos de seguridad). Sin embargo, esto sería una solución temporal, ya que generalmente nuestro proveedor de internet cambia nuestra IP pública regularmente. (Mis conocimientos en redes son básicos, sepan disculpar tecnicismos)
